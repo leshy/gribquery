@@ -1,0 +1,12 @@
+export do
+  model: 'gfs_p25_'
+  la1:-1
+  la2:1
+  lo1:-1
+  lo2:1
+  intv:6
+  days:3
+  cyc:'last'
+  par: 'W;P;'
+  wmdl: 'ww3_p50_'
+  wpar: 's'
